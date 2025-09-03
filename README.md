@@ -10,5 +10,5 @@ This project uses a neural network to analyse deprivation data for England at th
 - `lsoa.geojson` - contains LSOA boundaries.
 
 ## Usage
-Required library installations: Pandas, MatplotLib, Numpy, shap, scikit-learn, pytorch, geopandas, folium.
+Required library installations: Pandas, MatplotLib, Numpy, shap, scikit-learn, pytorch, geopandas, folium.  
 Open `MLP for deprivation analysis.ipynb` in Jupyter Notebook and run all cells.
